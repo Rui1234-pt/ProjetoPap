@@ -1,5 +1,6 @@
 # ProjetoPap
-É um projeto em cakephp 4 para trabalho final de curso
+É um projeto em cakephp 4 para trabalho final de curso.
+----------//------------------
 Material necesário:
 Computador;
 linguagem de marcação: html;
